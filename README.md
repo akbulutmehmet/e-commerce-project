@@ -1,3 +1,4 @@
-# e-commerce-project
-E-Commerce Project . This project use Codeigniter 3,Mysql,Javascript
-Project link : projetasarim.akbulutmehmet.com
+# E-Commerce Web Project
+**This Project Use Codeigniter 3 ,Mysql.
+**
+Project live link : [Link](https://projetasarim.akbulutmehmet.com "Link")
